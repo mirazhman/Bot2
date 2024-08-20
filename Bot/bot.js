@@ -1,5 +1,5 @@
 const { Telegraf } = require("telegraf");
-const TOKEN = "7165957797:AAFUINr2fQldi4QAaf1___-R1LqJxUZbKOo";
+const TOKEN = "";
 const bot = new Telegraf(TOKEN);
 
 const web_link = "https://mybotyik.vercel.app/";
